@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name         = "MMWeakValue"
   s.version      = "0.1.0"
-  s.summary      = "MMWeakValue. A small wrapper that has a weak reference to objects you don't want to retain strongly. This is good for retain objects weakly in a collection."
+  s.summary      = "MMWeakValue. A small wrapper that has a weak reference to objects you don't want to retain strongly. This is good for having a weak references in collections."
 
   s.description  = <<-DESC
-                   MMWeakValue. A small wrapper that has a weak reference to objects you don't want to retain strongly. This is good for retain objects weakly in a collection.
+                   MMWeakValue. A small wrapper that has a weak reference to objects you don't want to retain strongly. This is good for having a weak references in collections.
                    DESC
 
   s.homepage     = "https://github.com/mcmurrym/MMWeakValue"
